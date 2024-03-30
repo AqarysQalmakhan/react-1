@@ -1,5 +1,5 @@
-import korzina from './assets/button _ black _ icon.png'
-import logo from './assets/Group.png'
+import korzina from '../assets/button _ black _ icon.png'
+import logo from '../assets/Group.png'
 export default function Header() {
     return (
         <>
